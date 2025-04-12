@@ -1,5 +1,3 @@
----
-
 # 🛍️ Proyecto Olist: Potenciando el E-commerce con Inteligencia de Datos
 
 ¡Hola! Somos un equipo de jóvenes apasionados por los datos, la inteligencia artificial y su aplicación real para transformar negocios. En este proyecto nos aliamos con **Olist**, una empresa líder en comercio electrónico en América Latina, con la misión de extraer valor real de un dataset masivo de más de **100,000 órdenes reales** entre 2016 y 2018.
