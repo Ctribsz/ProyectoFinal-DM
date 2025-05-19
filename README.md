@@ -30,3 +30,21 @@ Durante cinco semanas, nos sumergimos en un proceso completo de minería de dato
 
 •⁠  ⁠Aplicamos k-fold cross-validation para asegurar generalización.
 •⁠  ⁠Probamos arquitecturas de redes neuronales para ver si podían superar a los modelos clásicos.
+
+### 🧾 Semana 5: Recomendaciones Estratégicas
+
+•⁠  ⁠Comparativa final entre todos los modelos.
+•⁠  ⁠Elaboramos un reporte con recomendaciones claras para mejorar KPIs de negocio.
+•⁠  ⁠Presentamos nuestros hallazgos ante una junta simulada de ejecutivos de Olist (¡nada fácil, pero muy emocionante!).
+
+---
+
+## 🧠 Tecnologías y herramientas
+
+•⁠  ⁠*Python* (Pandas, Scikit-learn, Keras, Matplotlib, Seaborn)
+•⁠  ⁠*Jupyter Notebooks*
+•⁠  ⁠*Git + GitHub* para control de versiones y colaboración
+•⁠  ⁠*Google Slides / Canva* para presentaciones
+•⁠  ⁠Y sobre todo… muchas horas de café, código y trabajo en equipo 💻☕💬
+
+---
