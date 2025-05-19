@@ -9,3 +9,14 @@ Desde el primer día asumimos el reto como si fuéramos parte del equipo de Olis
 ## 🚀 ¿Qué hicimos?
 
 Durante cinco semanas, nos sumergimos en un proceso completo de minería de datos, desde la limpieza y exploración de los datos hasta el entrenamiento y comparación de modelos avanzados.
+
+### 🔍 Semana 1: Exploración y Preprocesamiento
+
+•⁠  ⁠Limpieza profunda de datos y transformación de variables clave.
+•⁠  ⁠Visualizaciones para detectar patrones de comportamiento.
+•⁠  ⁠Identificación de correlaciones útiles para la etapa de modelado.
+
+### 📈 Semana 2: Modelos de Regresión
+
+•⁠  ⁠Implementamos varios modelos para predecir precios y tiempos de entrega.
+•⁠  ⁠Hicimos tuning de hiperparámetros y comparamos su rendimiento con métricas robustas.
