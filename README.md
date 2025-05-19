@@ -51,15 +51,13 @@ Durante cinco semanas, nos sumergimos en un proceso completo de minería de dato
 
 ## 📁 Estructura del repositorio
 
-
 📦 Olist-ML-Analysis/
-├── data/                  <- Datasets crudos y preprocesados
-├── notebooks/             <- Análisis exploratorio, regresión, clasificación
-├── models/                <- Modelos entrenados y scripts de evaluación
-├── reports/               <- Presentaciones y documentos generados
-├── requirements.txt       <- Librerías necesarias para correr el proyecto
-└── README.md              <- Este archivo 😉
-
+├── Content/               # Datasets crudos (archivos originales del proyecto)
+├── Data/                  # Datasets preprocesados y listos para modelado
+├── Notebooks/             # Análisis exploratorio, regresión, clasificación y entrenamiento de modelos
+├── Docs/                  # Presentaciones, reportes y entregables del proyecto
+├── requirements.txt       # Dependencias necesarias para ejecutar el proyecto
+└── README.md              # Este archivo 😊
 
 ---
 
