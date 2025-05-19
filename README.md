@@ -20,3 +20,13 @@ Durante cinco semanas, nos sumergimos en un proceso completo de minería de dato
 
 •⁠  ⁠Implementamos varios modelos para predecir precios y tiempos de entrega.
 •⁠  ⁠Hicimos tuning de hiperparámetros y comparamos su rendimiento con métricas robustas.
+
+### 🧠 Semana 3: Clasificación Inteligente
+
+•⁠  ⁠Clasificamos la satisfacción del cliente y otros factores binarios/multiclase.
+•⁠  ⁠Validación cruzada, gráficos de curvas ROC y análisis de importancia de variables.
+
+### 🧬 Semana 4: Redes Neuronales & Validación
+
+•⁠  ⁠Aplicamos k-fold cross-validation para asegurar generalización.
+•⁠  ⁠Probamos arquitecturas de redes neuronales para ver si podían superar a los modelos clásicos.
