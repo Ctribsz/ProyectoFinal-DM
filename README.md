@@ -48,3 +48,21 @@ Durante cinco semanas, nos sumergimos en un proceso completo de minería de dato
 •⁠  ⁠Y sobre todo… muchas horas de café, código y trabajo en equipo 💻☕💬
 
 ---
+
+## 📁 Estructura del repositorio
+
+
+📦 Olist-ML-Analysis/
+├── data/                  <- Datasets crudos y preprocesados
+├── notebooks/             <- Análisis exploratorio, regresión, clasificación
+├── models/                <- Modelos entrenados y scripts de evaluación
+├── reports/               <- Presentaciones y documentos generados
+├── requirements.txt       <- Librerías necesarias para correr el proyecto
+└── README.md              <- Este archivo 😉
+
+
+---
+
+## 🧭 ¿Y ahora qué?
+
+Nuestro análisis es solo el comienzo. Creemos que estas herramientas pueden integrarse al pipeline real de Olist para potenciar aún más su servicio. Las decisiones basadas en datos no son el futuro: *son el presente*. Y nosotros estamos listos para seguir aplicándolas.
